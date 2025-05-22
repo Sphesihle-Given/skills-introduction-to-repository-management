@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Sphesihle-Given
+/src/backend/database.py      @Sphesihle-Given
+/src/backend/routers/auth.py  @Sphesihle-Given
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Sphesihle-Given
